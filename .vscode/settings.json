@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "bindgen",
+        "onclick"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml"
+    ]
+}
